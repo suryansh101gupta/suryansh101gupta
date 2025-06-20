@@ -47,9 +47,8 @@
 
 <!--START_SECTION:my_repos-->
 <!-- Auto-generated: List your repositories with description here, or use a GitHub action to keep it updated -->
-- [Project 1](https://github.com/suryansh101gupta/project1): Short description of project 1
-- [Project 2](https://github.com/suryansh101gupta/project2): Short description of project 2
-- [Project 3](https://github.com/suryansh101gupta/project3): Short description of project 3
+- [Project 1](https://github.com/suryansh101gupta/MERN-NETNINJA): MERN-NETNINJA is a full-stack web application project built using the MERN stack (MongoDB, Express.js, React, Node.js). It implements modern web development practices and demonstrates features like RESTful APIs, user authentication, and dynamic front-end interfaces, inspired by the Net Ninja tutorial series.
+- [Project 2](https://github.com/suryansh101gupta/QuizApp): QuizApp is a native Android application developed in Kotlin that enables users to take interactive quizzes, track their scores, and manage personal profiles. It features secure authentication via Firebase, persistent score history with Firestore, and seamless profile picture support using Firebase Cloud Storage and the Glide library. The app provides a modern user experience and demonstrates robust integration of Android and cloud technologies.
 <!--END_SECTION:my_repos-->
 
 ---
@@ -63,10 +62,10 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/suryanshg10/)
-- [LeetCode](https://leetcode.com/u/suryanshg10/)
-- [Email](mailto:suryanshg10@gmail.com)
-- [Personal Website](https://suryanshgupta.com) <!-- Edit if you have a website -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryanshg10/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suryanshg10/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryanshg10a@gmail.com)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://suryanshgupta.com)
 
 ---
 
