@@ -63,8 +63,9 @@
 
 ### 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/suryansh101gupta)
-- [Email](mailto:suryansh101gupta@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/suryanshg10/)
+- [LeetCode](https://leetcode.com/u/suryanshg10/)
+- [Email](mailto:suryanshg10@gmail.com)
 - [Personal Website](https://suryanshgupta.com) <!-- Edit if you have a website -->
 
 ---
