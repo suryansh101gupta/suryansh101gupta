@@ -62,7 +62,7 @@
 ---
 
 - [**Safar WebApp**](https://github.com/suryansh101gupta/Safar-WebApp)
-  A comprehensive, full-stack ride-sharing application that replicates the core functionality of Safar with modern web technologies.
+  A comprehensive, full-stack ride-sharing application that replicates the core functionality of Uber with modern web technologies.
 
   **Key Features**
   - **Dual Interface**: Separate **React applications** for passengers and drivers.
