@@ -59,11 +59,36 @@
 
 ### 📂 My GitHub Repositories
 
-<!--START_SECTION:my_repos-->
-<!-- Auto-generated: List your repositories with description here, or use a GitHub action to keep it updated -->
-- [Project 1](https://github.com/suryansh101gupta/MERN-NETNINJA): MERN-NETNINJA is a full-stack web application project built using the MERN stack (MongoDB, Express.js, React, Node.js). It implements modern web development practices and demonstrates features like RESTful APIs, user authentication, and dynamic front-end interfaces, inspired by the Net Ninja tutorial series.
-- [Project 2](https://github.com/suryansh101gupta/QuizApp): QuizApp is a native Android application developed in Kotlin that enables users to take interactive quizzes, track their scores, and manage personal profiles. It features secure authentication via Firebase, persistent score history with Firestore, and seamless profile picture support using Firebase Cloud Storage and the Glide library. The app provides a modern user experience and demonstrates robust integration of Android and cloud technologies.
-<!--END_SECTION:my_repos-->
+---
+
+- [**Safar WebApp**](https://github.com/suryansh101gupta/Safar-WebApp)
+  A comprehensive, full-stack ride-sharing application that replicates the core functionality of Safar with modern web technologies.
+
+  **Key Features**
+  - **Dual Interface**: Separate **React applications** for passengers and drivers.
+  - **Real-time Tracking**: Live ride tracking using **Socket.io** for instant location updates.
+  - **Authentication**: A secure **JWT-based** system with token blacklisting.
+  - **Interactive Maps**: **Google Maps API** integration for location services and navigation.
+  - **Database**: **MongoDB** with **Mongoose** for data persistence.
+  - **Modern UI**: **Responsive design** with **Tailwind CSS** and a component-based architecture.
+
+  **Tech Stack**
+  - **Frontend**: React 19, Tailwind CSS, Vite
+  - **Backend**: Node.js, Express.js
+  - **Database**: MongoDB, Mongoose
+  - **Real-time Communication**: Socket.io
+  - **Authentication**: JWT
+  - **Mapping**: Google Maps API
+
+---
+
+- [**MERN-NETNINJA**](https://github.com/suryansh101gupta/MERN-NETNINJA)
+  A full-stack web application built with the **MERN stack** (MongoDB, Express.js, React, Node.js). It demonstrates features like RESTful APIs, user authentication, and dynamic front-end interfaces, inspired by the Net Ninja tutorial series.
+
+---
+
+- [**QuizApp**](https://github.com/suryansh101gupta/QuizApp)
+  A native **Android application** developed in **Kotlin** for interactive quizzes. The app features secure authentication and persistent score history with **Firebase** and **Firestore**, and integrates **Firebase Cloud Storage** and the **Glide library** for profile pictures.
 
 ---
 
