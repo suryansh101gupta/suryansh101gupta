@@ -38,6 +38,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-F58536?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-F58536?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
